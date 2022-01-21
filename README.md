@@ -1,1 +1,1 @@
-# Hyper24RSFC_scripts
+# Scripts to accompany the manuscript 'Precision Functional Connectivity Mapping of Human Brain Networks Using Wearable, High-Density Diffuse Optical Tomography: A Single Subject, Multi-Session Study'
